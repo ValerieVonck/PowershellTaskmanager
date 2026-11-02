@@ -104,5 +104,4 @@ A few settings sit at the top of the script:
 - Temperature coverage depends entirely on what your hardware and drivers expose.
 
 ## License
-
-Add the license of your choice here (for example MIT).
+MIT
