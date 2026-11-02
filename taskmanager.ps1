@@ -33,10 +33,8 @@
     q / Esc    quit
 
 .NOTES
-    Works in Windows PowerShell 5.1 and PowerShell 7, in a real console
-    host (Windows Terminal, conhost). Not designed for the ISE.
-    This file is pure ASCII on purpose; the block characters of the
-    sparkline are built from code points.
+    Works in Windows PowerShell 5.1, in a real console host (Windows Terminal, conhost). Not designed for the ISE.
+    This file is pure ASCII on purpose; the block characters of the sparkline are built from code points.
 #>
 
 # ---------------------------------------------------------------------------
