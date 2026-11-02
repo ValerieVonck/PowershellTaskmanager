@@ -745,5 +745,5 @@ try {
 finally {
     [Console]::CursorVisible = $true
     Clear-Host
-    Write-Host 'Task manager gesloten.' -ForegroundColor Cyan
+    Write-Host 'Task manager closed.' -ForegroundColor Cyan
 }
